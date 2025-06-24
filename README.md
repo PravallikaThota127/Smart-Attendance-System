@@ -52,11 +52,11 @@ Face is matched with stored embeddings and attendance is logged in MySQL.
 
 
 **Database Tables**
-students
+**students :**
 Stores student metadata.
 
-embeddings
+**embeddings:**
 Stores serialized face embeddings.
 
-Attendance
+**Attendance:**
 Stores timestamped attendance entries.
