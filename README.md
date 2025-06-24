@@ -15,6 +15,8 @@ Pickle
 
 **1. Install Requirements**:
 pip install opencv-python facenet-pytorch mysql-connector-python numpy
+
+
 **2. Setup MySQL**
 
 
