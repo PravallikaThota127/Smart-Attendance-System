@@ -11,17 +11,24 @@ NumPy,
 Pickle
 
 **Setup Instructions**
+
+
 **1. Install Requirements**:
 pip install opencv-python facenet-pytorch mysql-connector-python numpy
 **2. Setup MySQL**
+
+
 Create a MySQL server and ensure it is running.
 Update your MySQL credentials in both register.py and recog.py:
-python
+
+
 user='root',
 password='your_password',
 host='127.0.0.1'
 
 **How to Use:**
+
+
 Register a Student
 python register.py
 
