@@ -24,11 +24,19 @@ host='127.0.0.1'
 **How to Use:**
 Register a Student
 python register.py
+
+
 Enter student details when prompted.
+
+
 Press ‘c’ to capture face and ‘q’ to quit.
 
 Start Attendance Recognition
+
+
 python recog.py
+
+
 Press ‘q’ to quit webcam.
 
 Face is matched with stored embeddings and attendance is logged in MySQL.
